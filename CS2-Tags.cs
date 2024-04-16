@@ -461,11 +461,11 @@ public class CS2_Tags : BasePlugin
 		switch (teamNum)
 		{
 			case 2:
-				teamColor = $"{ChatColors.Gold}";
+				teamColor = $"{ChatColors.LightYellow }";
 				break;
 
 			case 3:
-				teamColor = $"{ChatColors.Blue}";
+				teamColor = $"{ChatColors.LightBlue}";
 				break;
 
 			default:
